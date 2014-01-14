@@ -1,0 +1,8 @@
+[submodule "CazzarCoreLib"]
+	path = CazzarCoreLib
+	url = git@github.com:cazzar/CazzarCoreLib.git
+	branch = 1.7
+[submodule ".\\JukeboxReloaded"]
+	path = .\\JukeboxReloaded
+	url = git@bitbucket.org:cazzar/jukeboxreloaded.git
+	branch = 1.7
