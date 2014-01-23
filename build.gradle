@@ -5,10 +5,6 @@ project(':JukeboxReloaded') {
 }
 
 allprojects {
-    project.ext.set('forgeVersion', '1.7.2-10.12.0.998')
+    project.ext.set('forgeVersion', '1.7.2-10.12.0.1013')
     project.ext.set('assetsDir', '../run/assets')
-    /*minecraft {
-        version = "1.7.1-10.12.0.997"
-        assetDir = "../run/assets"
-    }*/
 }
